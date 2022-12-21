@@ -1,0 +1,44 @@
+body {
+  background-color: purple;
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/026/452/955/large/diego-morali-ly-ep12-036-tweaked-screen.jpg?1588815804);
+  background-repeat: no-repeat;
+  background-size:88pc;
+}
+
+#text {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+#game {
+  max-width: 500px;
+  max-height: 400px;
+  background-color: lightgray;
+  color: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#controls {
+  border: 1px black solid;
+  padding: 5px;
+}
+
+#stats {
+  border: 1px black solid;
+  color: black;
+  padding: 5px;
+}
+
+#monsterStats {
+  display: none;
+  border: 1px black solid;
+  color: white;
+  padding: 5px;
+  background-color: red;
+}
+
+.stat {
+  padding-right: 10px;
+}
