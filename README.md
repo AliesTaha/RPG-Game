@@ -33,7 +33,7 @@ As you explore the world, you will encounter various NPCs (non-player characters
 
 #### Going to cave
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188653-9a9e1342-af01-4430-bd99-a033cb8a79c3.jpg" width="500" height="500"></a>
+<img src="https://user-images.githubusercontent.com/103478551/210188653-9a9e1342-af01-4430-bd99-a033cb8a79c3.jpg" width="300" height="500"></a>
 </div>
 Logging in simply checks if the user exists in the databse. If so, it checks if the passwords match. If so, then they can move on their own home page. 
 Logging out simply clears the memory of the browser such that the user has to log back in, either with the same credentials or a different one. 
@@ -42,7 +42,7 @@ Logging out simply clears the memory of the browser such that the user has to lo
 
 #### Escaping
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188659-8cfa4e62-c44d-45f6-916b-bedc079fa949.jpg" width="500" height="730">
+<img src="https://user-images.githubusercontent.com/103478551/210188659-8cfa4e62-c44d-45f6-916b-bedc079fa949.jpg" width="300" height="500">
 </div>
 One can create a post that includes a text, an image, or both. The functionality is supported for any option, and each post has its own ID in the backend, and is timestamped so that they are shown in chronological order.
 <br>
@@ -50,7 +50,7 @@ One can create a post that includes a text, an image, or both. The functionality
 
 #### Buying weapons
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188649-7f755450-fb8a-42eb-bd1a-88f3c1771ef6.jpg" width="500" height="500"></a>
+<img src="https://user-images.githubusercontent.com/103478551/210188649-7f755450-fb8a-42eb-bd1a-88f3c1771ef6.jpg" width="300" height="500"></a>
 </div>
 Liking a post is simply done through pressing the like button, which increments the post's number of likes by 1. Clicking the button again removes the like from the post
 <br>
@@ -58,7 +58,7 @@ Liking a post is simply done through pressing the like button, which increments 
 
 #### Buying health
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188646-5098e38e-82ad-42e1-869c-ed4bd505114a.jpg" width="500" height="500"></a>
+<img src="https://user-images.githubusercontent.com/103478551/210188646-5098e38e-82ad-42e1-869c-ed4bd505114a.jpg" width="300" height="500"></a>
 </div>
 At the click of a button, the user is able to access their status. They can change the fields, their information, and the respective picture, for background and profile. 
 <br>
@@ -66,7 +66,7 @@ At the click of a button, the user is able to access their status. They can chan
 
 #### Going to store
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188642-edbc3dec-91e6-45ba-909e-369cfc828991.jpg" width="500" height="500"></a>
+<img src="https://user-images.githubusercontent.com/103478551/210188642-edbc3dec-91e6-45ba-909e-369cfc828991.jpg" width="300" height="500"></a>
 </div>
 Signing up adds the new user to the database, and gives them the default profile and background image. It checks to see if passwords match, and checks if the user already exists in the database before doing so. 
 <br>
@@ -75,7 +75,7 @@ Signing up adds the new user to the database, and gives them the default profile
 
 #### Fighting the Dragon
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210188662-b6d9795d-792f-4b65-a5a6-b86f277ea0e6.jpg" width="900" height="730">
+<img src="https://user-images.githubusercontent.com/103478551/210188662-b6d9795d-792f-4b65-a5a6-b86f277ea0e6.jpg" width="300" height="500">
 </div>
 This is performed in the same way as above
 <br>
