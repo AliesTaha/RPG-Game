@@ -4,26 +4,31 @@
 
 Welcome to the RPG game!
 
+Intro
 ![Screenshot 2023-01-01 at 6 40 57 PM](https://user-images.githubusercontent.com/103478551/210188642-edbc3dec-91e6-45ba-909e-369cfc828991.jpg)
 
+Shopping
 ![Screenshot 2023-01-01 at 6 41 11 PM](https://user-images.githubusercontent.com/103478551/210188644-da1c5004-90e1-48dd-a31a-d4b65a191a62.jpg)
 
+Health
 ![Screenshot 2023-01-01 at 6 41 15 PM](https://user-images.githubusercontent.com/103478551/210188646-5098e38e-82ad-42e1-869c-ed4bd505114a.jpg)
 
+Fight
 ![Screenshot 2023-01-01 at 6 41 20 PM](https://user-images.githubusercontent.com/103478551/210188649-7f755450-fb8a-42eb-bd1a-88f3c1771ef6.jpg)
 
-![Screenshot 2023-01-01 at 6 41 24 PM](https://user-images.githubusercontent.com/103478551/210188651-acbb9b63-a768-40ca-93b7-8c22e3d8c4b2.jpg)
-
+Town
 ![Screenshot 2023-01-01 at 6 41 28 PM](https://user-images.githubusercontent.com/103478551/210188653-9a9e1342-af01-4430-bd99-a033cb8a79c3.jpg)
 
+Cave
 ![Screenshot 2023-01-01 at 6 41 31 PM](https://user-images.githubusercontent.com/103478551/210188655-ce0c1a1a-1c0e-4a65-b33a-81c35d54e56e.jpg)
 
+Fight2
 ![Screenshot 2023-01-01 at 6 42 05 PM](https://user-images.githubusercontent.com/103478551/210188657-680a2987-6db9-4a34-851d-4312e2fb311d.jpg)
 
+Run
 ![Screenshot 2023-01-01 at 6 41 42 PM](https://user-images.githubusercontent.com/103478551/210188659-8cfa4e62-c44d-45f6-916b-bedc079fa949.jpg)
 
-![Screenshot 2023-01-01 at 6 41 45 PM](https://user-images.githubusercontent.com/103478551/210188660-001f8616-9842-4255-975d-974c776b04ff.jpg)
-
+Fighting
 ![Screenshot 2023-01-01 at 6 41 38 PM](https://user-images.githubusercontent.com/103478551/210188662-b6d9795d-792f-4b65-a5a6-b86f277ea0e6.jpg)
 
 
