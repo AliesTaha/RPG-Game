@@ -74,7 +74,9 @@ Signing up adds the new user to the database, and gives them the default profile
 <hr>
 
 #### Fighting the Dragon
-<img src="https://media.giphy.com/media/74f209Zeae9b08qCag/giphy.gif" width="900" height="730">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188662-b6d9795d-792f-4b65-a5a6-b86f277ea0e6.jpg" width="900" height="730">
+</div>
 This is performed in the same way as above
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
