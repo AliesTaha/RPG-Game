@@ -79,10 +79,8 @@ Signing up adds the new user to the database, and gives them the default profile
 </div>
 This is performed in the same way as above
 <br>
-<a href="#top" class="btn">Back to table of contents</a><hr>
+<a href="#top" class="btn">Back to table of contents</a>
 <hr>
-
-
 
 ## Installation
 - First, make sure that you have the necessary files for the game saved on your computer, downloaded from this github repository. 
