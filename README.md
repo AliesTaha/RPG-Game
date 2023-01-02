@@ -32,32 +32,42 @@ As you explore the world, you will encounter various NPCs (non-player characters
 ## Features of Game
 
 #### Going to cave
-<img src="https://media.giphy.com/media/LdoUkF2twXT4gkoihl/giphy.gif" width="900" height="730">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188653-9a9e1342-af01-4430-bd99-a033cb8a79c3.jpg" width="500" height="500"></a>
+</div>
 Logging in simply checks if the user exists in the databse. If so, it checks if the passwords match. If so, then they can move on their own home page. 
 Logging out simply clears the memory of the browser such that the user has to log back in, either with the same credentials or a different one. 
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
 
 #### Escaping
-<img src="https://media.giphy.com/media/HPUz3qclIElvlhsMyf/giphy.gif" width="900" height="730">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188659-8cfa4e62-c44d-45f6-916b-bedc079fa949.jpg" width="500" height="730">
+</div>
 One can create a post that includes a text, an image, or both. The functionality is supported for any option, and each post has its own ID in the backend, and is timestamped so that they are shown in chronological order.
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
 
 #### Buying weapons
-<img src="https://media.giphy.com/media/wpVh4p82R9T7XxPsrd/giphy.gif" width="900" height="730">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188649-7f755450-fb8a-42eb-bd1a-88f3c1771ef6.jpg" width="500" height="500"></a>
+</div>
 Liking a post is simply done through pressing the like button, which increments the post's number of likes by 1. Clicking the button again removes the like from the post
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
 
 #### Buying health
-<img src="https://media.giphy.com/media/fq8JaLSUalKxwwKbAt/giphy.gif" width="900" height="730">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188646-5098e38e-82ad-42e1-869c-ed4bd505114a.jpg" width="500" height="500"></a>
+</div>
 At the click of a button, the user is able to access their status. They can change the fields, their information, and the respective picture, for background and profile. 
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
 
 #### Going to store
-![image](https://user-images.githubusercontent.com/103478551/209669670-178f3942-f529-4717-9d38-fa2ade107b93.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210188642-edbc3dec-91e6-45ba-909e-369cfc828991.jpg" width="500" height="500"></a>
+</div>
 Signing up adds the new user to the database, and gives them the default profile and background image. It checks to see if passwords match, and checks if the user already exists in the database before doing so. 
 <br>
 <a href="#top" class="btn">Back to table of contents</a>
