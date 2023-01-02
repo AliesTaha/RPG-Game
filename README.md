@@ -87,4 +87,11 @@ This is performed in the same way as above
 
 
 ## Installation
-Download the folders, and double click on index.html to run the game. 
+
+- First, make sure that you have the necessary files for the game saved on your computer, downloaded from this github repository. 
+- These include an HTML file, a CSS file, and a JavaScript file. 
+- Open the HTML file in your text editor. 
+- This file should contain the basic structure of the game and links to the CSS and JavaScript files. 
+- Modify the HTML, CSS, and JavaScript files as needed to customize the game.
+- Save the modified files and open the HTML file in your web browser. 
+- The game should now be running and ready to play.
